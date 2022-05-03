@@ -1,0 +1,1 @@
+from .honeyShrinkage import covCor
